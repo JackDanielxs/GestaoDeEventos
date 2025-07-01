@@ -132,8 +132,8 @@ const Eventos = () => {
         ))}
       </div>
 
-      <div className="text-xs text-gray-400 text-right opacity-50">
-        feito por daniel
+      <div className="text-sm text-gray-500 text-center">
+        feito por Daniel Marques
       </div>
     </div>
   );
