@@ -10,10 +10,10 @@ Siga esses passos:
 
 ```sh
 # Step 1: Clone esse repositório
-git clone https://github.com/JackDanielxs/Eng1GestaoDeEventos
+git clone https://github.com/JackDanielxs/GestaoDeEventos
 
 # Step 2: Vá até o local do arquivo
-cd Eng1GestaoDeEventos
+cd GestaoDeEventos-main
 
 # Step 3: Instale todas as dependências
 npm i
