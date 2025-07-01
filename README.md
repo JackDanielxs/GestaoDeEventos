@@ -1,7 +1,7 @@
 # 🧠 Sistema de gestão de eventos inteligente
 Um sistema moderno e inteligente para facilitar a organização, gerenciamento e visualização de eventos, focado na experiência do usuário.
 
-## Como rodar o projeto
+## 🚀 Como rodar o projeto
 
 Pré requisitos:
 - Tenha o Node.js e o npm instalados
@@ -22,7 +22,7 @@ npm i
 npm run dev
 ```
 
-## Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 <p align="left">
   <span>&emsp;</span>
