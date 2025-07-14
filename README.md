@@ -26,7 +26,7 @@ npm run dev
 
 <p align="left">
   <span>&emsp;</span>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vite,ts,react,tailwind,nodejs,npm" />
+  <a href="https://github.com/syvixor/skills-icons">
+    <img src="https://skills.syvixor.com/api/icons?i=vite,typescript,reactjs,tailwindcss,nodejs,npm" />
   </a>
 </p>
